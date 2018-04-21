@@ -1,0 +1,44 @@
+
+/*paragraph 1*/
+.paragraph1 {
+    font-weight: 100;
+    color: blueviolet;
+    font-family: 'Anton', sans-serif;
+
+    
+}
+
+/*paragraph 2*/
+.paragraph2 {
+    font-size:80px;
+    font-weight: 300;
+    line-height: 50;
+    font-family: cursive;
+
+
+}
+a {
+    color: red;
+}
+
+a:hover {
+    color: blue;
+}
+
+a:link { 
+    color: #ffff;
+}
+
+a:visited { 
+    color: brown;
+}
+
+a:active {
+    color: grey;
+}
+button 
+{
+    color: green;
+    background: pink;
+    
+}
